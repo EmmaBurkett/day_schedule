@@ -1,3 +1,5 @@
-High Eat food 2
-High Jump around 3
-High Make Chocolate Milk 7
+high one 1
+low two 2
+medium three 3
+medium-low four 4
+medium-high five 5
